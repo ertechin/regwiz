@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller stuffs
+app/build/
+app/dist/
+
+app/reg.spec
+
+# macOS Finder metadata
+.DS_Store
